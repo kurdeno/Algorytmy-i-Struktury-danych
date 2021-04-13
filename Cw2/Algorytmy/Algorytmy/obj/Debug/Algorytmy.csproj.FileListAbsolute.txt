@@ -1,0 +1,18 @@
+C:\Users\Krzysiek\source\repos\Algorytmy\Algorytmy\bin\Debug\Algorytmy.exe.config
+C:\Users\Krzysiek\source\repos\Algorytmy\Algorytmy\bin\Debug\Algorytmy.exe
+C:\Users\Krzysiek\source\repos\Algorytmy\Algorytmy\bin\Debug\Algorytmy.pdb
+C:\Users\Krzysiek\source\repos\Algorytmy\Algorytmy\obj\Debug\Algorytmy.csprojAssemblyReference.cache
+C:\Users\Krzysiek\source\repos\Algorytmy\Algorytmy\obj\Debug\Algorytmy.Properties.Resources.resources
+C:\Users\Krzysiek\source\repos\Algorytmy\Algorytmy\obj\Debug\Algorytmy.csproj.GenerateResource.cache
+C:\Users\Krzysiek\source\repos\Algorytmy\Algorytmy\obj\Debug\Algorytmy.exe
+C:\Users\Krzysiek\source\repos\Algorytmy\Algorytmy\obj\Debug\Algorytmy.pdb
+C:\Users\Krzysiek\source\repos\Algorytmy\Algorytmy\obj\Debug\Algorytmy.Form1.resources
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw2\Algorytmy\Algorytmy\bin\Debug\Algorytmy.exe.config
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw2\Algorytmy\Algorytmy\bin\Debug\Algorytmy.exe
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw2\Algorytmy\Algorytmy\bin\Debug\Algorytmy.pdb
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw2\Algorytmy\Algorytmy\obj\Debug\Algorytmy.csprojAssemblyReference.cache
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw2\Algorytmy\Algorytmy\obj\Debug\Algorytmy.Form1.resources
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw2\Algorytmy\Algorytmy\obj\Debug\Algorytmy.Properties.Resources.resources
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw2\Algorytmy\Algorytmy\obj\Debug\Algorytmy.csproj.GenerateResource.cache
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw2\Algorytmy\Algorytmy\obj\Debug\Algorytmy.exe
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw2\Algorytmy\Algorytmy\obj\Debug\Algorytmy.pdb
