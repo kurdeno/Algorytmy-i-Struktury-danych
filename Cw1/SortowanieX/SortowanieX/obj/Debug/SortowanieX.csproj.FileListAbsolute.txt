@@ -1,0 +1,12 @@
+C:\Users\Krzysiek\source\repos\SortowanieX\SortowanieX\bin\Debug\SortowanieX.exe.config
+C:\Users\Krzysiek\source\repos\SortowanieX\SortowanieX\bin\Debug\SortowanieX.exe
+C:\Users\Krzysiek\source\repos\SortowanieX\SortowanieX\bin\Debug\SortowanieX.pdb
+C:\Users\Krzysiek\source\repos\SortowanieX\SortowanieX\obj\Debug\SortowanieX.csprojAssemblyReference.cache
+C:\Users\Krzysiek\source\repos\SortowanieX\SortowanieX\obj\Debug\SortowanieX.exe
+C:\Users\Krzysiek\source\repos\SortowanieX\SortowanieX\obj\Debug\SortowanieX.pdb
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw1\SortowanieX\SortowanieX\bin\Debug\SortowanieX.exe.config
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw1\SortowanieX\SortowanieX\bin\Debug\SortowanieX.exe
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw1\SortowanieX\SortowanieX\bin\Debug\SortowanieX.pdb
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw1\SortowanieX\SortowanieX\obj\Debug\SortowanieX.csprojAssemblyReference.cache
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw1\SortowanieX\SortowanieX\obj\Debug\SortowanieX.exe
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw1\SortowanieX\SortowanieX\obj\Debug\SortowanieX.pdb

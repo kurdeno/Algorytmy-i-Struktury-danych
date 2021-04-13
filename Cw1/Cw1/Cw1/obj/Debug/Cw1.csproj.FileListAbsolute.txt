@@ -1,0 +1,18 @@
+C:\Users\Krzysiek\source\repos\Cw1\Cw1\bin\Debug\Cw1.exe.config
+C:\Users\Krzysiek\source\repos\Cw1\Cw1\bin\Debug\Cw1.exe
+C:\Users\Krzysiek\source\repos\Cw1\Cw1\bin\Debug\Cw1.pdb
+C:\Users\Krzysiek\source\repos\Cw1\Cw1\obj\Debug\Cw1.csprojAssemblyReference.cache
+C:\Users\Krzysiek\source\repos\Cw1\Cw1\obj\Debug\Cw1.Form1.resources
+C:\Users\Krzysiek\source\repos\Cw1\Cw1\obj\Debug\Cw1.Properties.Resources.resources
+C:\Users\Krzysiek\source\repos\Cw1\Cw1\obj\Debug\Cw1.csproj.GenerateResource.cache
+C:\Users\Krzysiek\source\repos\Cw1\Cw1\obj\Debug\Cw1.exe
+C:\Users\Krzysiek\source\repos\Cw1\Cw1\obj\Debug\Cw1.pdb
+C:\Users\Krzysiek\Desktop\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw1\Cw1\Cw1\bin\Debug\Cw1.exe.config
+C:\Users\Krzysiek\Desktop\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw1\Cw1\Cw1\bin\Debug\Cw1.exe
+C:\Users\Krzysiek\Desktop\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw1\Cw1\Cw1\bin\Debug\Cw1.pdb
+C:\Users\Krzysiek\Desktop\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw1\Cw1\Cw1\obj\Debug\Cw1.csprojAssemblyReference.cache
+C:\Users\Krzysiek\Desktop\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw1\Cw1\Cw1\obj\Debug\Cw1.Form1.resources
+C:\Users\Krzysiek\Desktop\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw1\Cw1\Cw1\obj\Debug\Cw1.Properties.Resources.resources
+C:\Users\Krzysiek\Desktop\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw1\Cw1\Cw1\obj\Debug\Cw1.csproj.GenerateResource.cache
+C:\Users\Krzysiek\Desktop\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw1\Cw1\Cw1\obj\Debug\Cw1.exe
+C:\Users\Krzysiek\Desktop\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw1\Cw1\Cw1\obj\Debug\Cw1.pdb
