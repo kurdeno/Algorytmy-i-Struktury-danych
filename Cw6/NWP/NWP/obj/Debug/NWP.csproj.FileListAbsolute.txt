@@ -1,0 +1,12 @@
+C:\Users\Krzysiek\source\repos\NWP\NWP\bin\Debug\NWP.exe.config
+C:\Users\Krzysiek\source\repos\NWP\NWP\bin\Debug\NWP.exe
+C:\Users\Krzysiek\source\repos\NWP\NWP\bin\Debug\NWP.pdb
+C:\Users\Krzysiek\source\repos\NWP\NWP\obj\Debug\NWP.csprojAssemblyReference.cache
+C:\Users\Krzysiek\source\repos\NWP\NWP\obj\Debug\NWP.exe
+C:\Users\Krzysiek\source\repos\NWP\NWP\obj\Debug\NWP.pdb
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw6\NWP\NWP\bin\Debug\NWP.exe.config
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw6\NWP\NWP\bin\Debug\NWP.exe
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw6\NWP\NWP\bin\Debug\NWP.pdb
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw6\NWP\NWP\obj\Debug\NWP.csprojAssemblyReference.cache
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw6\NWP\NWP\obj\Debug\NWP.exe
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw6\NWP\NWP\obj\Debug\NWP.pdb

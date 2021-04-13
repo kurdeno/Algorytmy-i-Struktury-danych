@@ -1,0 +1,25 @@
+C:\Users\local\source\repos\Albrecht\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\local\source\repos\Albrecht\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\local\source\repos\Albrecht\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\local\source\repos\Albrecht\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\local\source\repos\Albrecht\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\local\source\repos\Albrecht\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\local\source\repos\Albrecht\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Krzysiek\Downloads\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Krzysiek\Downloads\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Krzysiek\Downloads\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Krzysiek\Downloads\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Krzysiek\Downloads\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Krzysiek\Downloads\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Krzysiek\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\AlGrafow.exe.config
+C:\Users\Krzysiek\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\AlGrafow.exe
+C:\Users\Krzysiek\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\AlGrafow.pdb
+C:\Users\Krzysiek\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Krzysiek\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\AlGrafow.exe
+C:\Users\Krzysiek\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\AlGrafow.pdb
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw7\ConsoleApp1\ConsoleApp1\bin\Debug\AlGrafow.exe.config
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw7\ConsoleApp1\ConsoleApp1\bin\Debug\AlGrafow.exe
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw7\ConsoleApp1\ConsoleApp1\bin\Debug\AlGrafow.pdb
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw7\ConsoleApp1\ConsoleApp1\obj\Debug\AlGrafow.exe
+C:\Users\Krzysiek\Dropbox\2019-2020 AISD Gr.2 Krzysztof-Bodo-151124\Cw7\ConsoleApp1\ConsoleApp1\obj\Debug\AlGrafow.pdb
